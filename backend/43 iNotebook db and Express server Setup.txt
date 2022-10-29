@@ -1,0 +1,18 @@
+Preffer - Use Mongoose
+Use MongoDb Campus
+
+connect with MongoDb
+create a new js file
+    -   code with simple javascript not JSX.
+
+> backend (open terminal)
+    - type (npm i -D nodemon)
+    -- -D stands for install as devDependency
+    - type nodemon .\[filename].js
+        -- if give error add the following code in package.json. 
+            "scripts": {
+                "server": "nodemon server.js"
+            }
+        -- type npm run server.
+
+----------- From Now index.js in our Express server.
