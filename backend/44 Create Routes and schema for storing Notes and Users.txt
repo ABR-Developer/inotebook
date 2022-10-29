@@ -1,0 +1,7 @@
+-> create models folder and add mongos models in it.
+    -- Model name be start with capital letter.
+    -- We also add schema in it create model from that schema.
+-> create routes folder and add routes in it.
+
+mongosDB data storage order
+> Database  > Collections   > Documents (javascript)
